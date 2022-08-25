@@ -11,5 +11,7 @@ namespace VoeAirlines.Entities
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Matricula { get; set; }
+        public int MyProperty { get; set; }
+        public ICollection<Voo>? Voos { get; set; }
     }
 }
