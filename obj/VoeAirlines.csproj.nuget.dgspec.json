@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\desktop\\VoeAirlines\\VoeAirlines.csproj": {}
+    "C:\\Users\\dev\\Desktop\\VoeAirlines\\VoeAirlines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\desktop\\VoeAirlines\\VoeAirlines.csproj": {
+    "C:\\Users\\dev\\Desktop\\VoeAirlines\\VoeAirlines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\desktop\\VoeAirlines\\VoeAirlines.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\VoeAirlines\\VoeAirlines.csproj",
         "projectName": "VoeAirlines",
-        "projectPath": "C:\\Users\\dev\\desktop\\VoeAirlines\\VoeAirlines.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\VoeAirlines\\VoeAirlines.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\desktop\\VoeAirlines\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\VoeAirlines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

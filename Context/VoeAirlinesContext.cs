@@ -24,7 +24,7 @@ namespace VoeAirlines.Context
         //Encapsulamento
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(_configuration.GetConnectionString("VoeAirline"));
+            optionsBuilder.UseSqlServer(_configuration.GetConnectionString("VoeAirlines"));
         }
     
 
